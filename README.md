@@ -43,11 +43,15 @@ Plant‑Disease‑Detection/
 ├── Workfiow
 └── README.md # This documentation
 
-👩‍💻 Author
-Shivangi
-  shivangi.300012723058@csvtu.ac.in
-🔗 GitHub Profile
+## 👩‍💻 Author
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+**Shivangi**  
+🔗 [GitHub Profile](https://github.com/codershivangi)
+🔗 [Linkedin Profile](https://www.linkedin.com/in/shivangi-thakur-4ba4ab30a/)
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for full license details.
+
 
